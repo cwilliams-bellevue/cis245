@@ -122,12 +122,6 @@ class ContactInfo:
             exit(-2)
 
 
-
-
-
-
-import os
-
 # main function for app
 def main():
     print("**********************************************")
